@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-30 00:15 IR
+- 🎬 [ANIMATE 2D CHARACTERS in Unity.mp4](https://github.com/WeArvin/sandboxarwin/raw/main/dl/ANIMATE%202D%20CHARACTERS%20in%20Unity.mp4) `48.6MB`
+
+---
+
+
 ### 📅 2026-04-30 00:12 IR
 - 🎬 [How to RIG & ANIMATE 2D Game Characters ｜ Unity 2024 Tutorial.mp4](https://github.com/WeArvin/sandboxarwin/raw/main/dl/How%20to%20RIG%20%26%20ANIMATE%202D%20Game%20Characters%20%EF%BD%9C%20Unity%202024%20Tutorial.mp4) `42.8MB`
 
