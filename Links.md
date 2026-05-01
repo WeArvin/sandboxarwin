@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-01 18:20 IR
+- 🗜️ [mhrv-rs-windows-amd64.zip](https://github.com/WeArvin/sandboxarwin/raw/main/dl/mhrv-rs-windows-amd64.zip) `7.0MB`
+
+---
+
+
 ### 📅 2026-05-01 17:51 IR
 - 🗜️ [v2rayN-windows-64.zip.zip](https://github.com/WeArvin/sandboxarwin/raw/main/dl/v2rayN-windows-64.zip.zip) `48.3MB`
 
