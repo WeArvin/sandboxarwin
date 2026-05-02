@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-02 09:06 IR
+- 📱 [Happ.apk](https://github.com/WeArvin/sandboxarwin/raw/main/dl/Happ.apk) `54.0MB`
+
+---
+
+
 ### 📅 2026-05-02 09:03 IR
 - 📥 [setup-Happ.x64.exe](https://github.com/WeArvin/sandboxarwin/raw/main/dl/setup-Happ.x64.exe) `89.1MB`
 
