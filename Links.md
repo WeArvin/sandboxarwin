@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-03 17:49 IR
+- 📥 [thefeed-client-v0.14.3-windows-amd64.exe](https://github.com/WeArvin/sandboxarwin/raw/main/dl/thefeed-client-v0.14.3-windows-amd64.exe) `2.6MB`
+
+---
+
+
 ### 📅 2026-05-03 10:34 IR
 - 📱 [thefeed-android-v0.14.0-rc2-arm64-v8a.apk](https://github.com/WeArvin/sandboxarwin/raw/main/dl/thefeed-android-v0.14.0-rc2-arm64-v8a.apk) `8.0MB`
 
