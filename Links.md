@@ -2,6 +2,18 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-04 00:24 IR
+- 🗜️ [Antigravity.exe.zip](https://github.com/WeArvin/sandboxarwin/raw/main/dl/Antigravity.exe.zip) `18.0MB`
+
+- 🗜️ [Antigravity.exe.z01](https://github.com/WeArvin/sandboxarwin/raw/main/dl/Antigravity.exe.z01) `95.0MB`
+
+- 🗜️ [Antigravity.exe.z02](https://github.com/WeArvin/sandboxarwin/raw/main/dl/Antigravity.exe.z02) `95.0MB`
+
+- 🗜️ [Antigravity.exe.zip](https://github.com/WeArvin/sandboxarwin/raw/main/dl/Antigravity.exe.zip) `18.0MB`
+
+---
+
+
 ### 📅 2026-05-03 19:02 IR
 - 🎵 [IRIAS,LOVIXX - BALENCIAGA.mp3](https://github.com/WeArvin/sandboxarwin/raw/main/dl/IRIAS%2CLOVIXX%20-%20BALENCIAGA.mp3) `2.3MB`
 
