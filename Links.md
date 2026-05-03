@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-03 08:18 IR
+- 📱 [range-scout-v0.1.2-arm64-v8a-signed.apk](https://github.com/WeArvin/sandboxarwin/raw/main/dl/range-scout-v0.1.2-arm64-v8a-release-signed.apk) `9.8MB`
+
+---
+
+
 ### 📅 2026-05-02 09:06 IR
 - 📱 [Happ.apk](https://github.com/WeArvin/sandboxarwin/raw/main/dl/Happ.apk) `54.0MB`
 
