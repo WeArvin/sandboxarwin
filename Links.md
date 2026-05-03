@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-03 18:38 IR
+- 🎵 [BAVARISH (Official Lyrics) ｜ Dark BMW Trap Anthem.mp3](https://github.com/WeArvin/sandboxarwin/raw/main/dl/BAVARISH%20%28Official%20Lyrics%29%20%EF%BD%9C%20Dark%20BMW%20Trap%20Anthem.mp3) `2.1MB`
+
+---
+
+
 ### 📅 2026-05-03 18:36 IR
 - 🎵 [Mafia Trap — PART TWO ｜ Cold Night Ride ｜ Audi RS7 ｜ AWAKENING.mp3](https://github.com/WeArvin/sandboxarwin/raw/main/dl/Mafia%20Trap%20%E2%80%94%20PART%20TWO%20%EF%BD%9C%20Cold%20Night%20Ride%20%EF%BD%9C%20Audi%20RS7%20%EF%BD%9C%20AWAKENING.mp3) `3.4MB`
 
