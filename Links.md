@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-03 17:56 IR
+- 🗜️ [mhrv-rs-windows-amd64.zip](https://github.com/WeArvin/sandboxarwin/raw/main/dl/mhrv-rs-windows-amd64.zip) `7.0MB`
+
+---
+
+
 ### 📅 2026-05-03 17:49 IR
 - 📥 [thefeed-client-v0.14.3-windows-amd64.exe](https://github.com/WeArvin/sandboxarwin/raw/main/dl/thefeed-client-v0.14.3-windows-amd64.exe) `2.6MB`
 
