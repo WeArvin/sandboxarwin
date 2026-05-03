@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-04 01:24 IR
+- 📱 [thefeed-android-v0.14.6-arm64-v8a.apk](https://github.com/WeArvin/sandboxarwin/raw/main/dl/thefeed-android-v0.14.6-arm64-v8a.apk) `8.0MB`
+
+---
+
+
 ### 📅 2026-05-04 00:24 IR
 - 🗜️ [Antigravity.exe.zip](https://github.com/WeArvin/sandboxarwin/raw/main/dl/Antigravity.exe.zip) `18.0MB`
 
